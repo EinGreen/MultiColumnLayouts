@@ -1,3 +1,4 @@
+/* part 1: columns */
 #columnOne {
     display: inline-block;
     width: 200px;
@@ -26,3 +27,26 @@
     background: green;
 }
 /* pushes button: "that was easy" */
+
+/* part 2: measurements */
+#floatCorgi {
+    width: 15%;
+    float: left;
+}
+
+#notLorem {
+    font-size: 2em;
+}
+
+#thisTitle {
+    font-size: 1rem;
+}
+
+#animeMeme {
+    width: 250pt;
+}
+
+#why {
+    width: 90vw;
+    height: 90vh;
+}
