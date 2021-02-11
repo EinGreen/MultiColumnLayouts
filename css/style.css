@@ -1,0 +1,28 @@
+#columnOne {
+    display: inline-block;
+    width: 200px;
+    height: 500px;
+    background: blue;
+}
+
+#columnTwo {
+    display: inline-block;
+    width: 200px;
+    height: 500px;
+    background: red;
+}
+
+#columnThree {
+    display: inline-block;
+    width: 200px;
+    height: 500px;
+    background: yellow;
+}
+
+#columnFour {
+    display: inline-block;
+    width: 200px;
+    height: 500px;
+    background: green;
+}
+/* pushes button: "that was easy" */
